@@ -7,6 +7,7 @@ A deep learning model to predict target variables and confidence intervals for t
  - Interval loss function (INT)
  
  An overview of the task statement is given in **task_overview.pdf**
+ 
  An overview of the resutls generated and their inferences are given in **Final_poster.pdf**
 
 
